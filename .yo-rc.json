@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Domain Driven Design",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mihirk",
+    "githubRepository": "domain-driven-design",
+    "revealTheme": "moon"
+  }
+}
