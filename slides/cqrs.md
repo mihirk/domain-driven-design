@@ -1,3 +1,3 @@
 ##  Command Query Responsibility Seggregation
 
-![CQRS](../images/cqrs.png)
+![CQRS](http://martinfowler.com/bliki/images/cqrs/cqrs.png)
